@@ -1,1 +1,1 @@
-# CAR-PRICE-PREDICTION-REGRESSION-MODEL
+Price prediction uses an algorithm to analyze a product or service based on its characteristics, demand, and current market trends. Then the software sets a price at a level it predicts will both attract customers and maximize sales. In some circles, the practice is called price forecasting or predictive pricing.Utilizing features such as brand, model, mileage, age, engine size, and other specifications to predict the price of a car. Machine learning models aim to estimate the monetary value based on these factors.
